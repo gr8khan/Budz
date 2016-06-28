@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a61fd172-34e5-4818-ab69-e0e0f6e748c8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/core/client/img/brand/cook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/core/client/img/brand/cooking.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/core/client/img/brand/favicon_bk.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.bluemix/pipeline.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Budz.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Budz_node_modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/articles/client/articles.client.module.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/articles/client/config/articles.client.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/articles/client/config/articles.client.routes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/articles/client/controllers/articles.client.controller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/articles/client/services/articles.client.service.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/articles/client/views/create-article.client.view.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/articles/client/views/edit-article.client.view.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/articles/client/views/list-articles.client.view.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/articles/client/views/view-article.client.view.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/articles/server/config/articles.server.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/articles/server/controllers/articles.server.controller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/articles/server/models/article.server.model.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/articles/server/policies/articles.server.policy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/articles/server/routes/articles.server.routes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/articles/tests/client/articles.client.controller.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/articles/tests/e2e/articles.e2e.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/articles/tests/server/article.server.model.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/articles/tests/server/article.server.routes.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/chat/client/chat.client.module.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/chat/client/config/chat.client.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/chat/client/config/chat.client.routes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/chat/client/controllers/chat.client.controller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/chat/client/css/chat.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/chat/client/views/chat.client.view.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/chat/server/sockets/chat.server.socket.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/chat/tests/client/chat.client.controller.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/chat/tests/e2e/chat.e2e.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/chat/tests/server/chat.socket.tests.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/core/client/img/brand/favicon.ico" afterPath="$PROJECT_DIR$/modules/core/client/img/brand/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/core/client/img/brand/logo.png" afterPath="$PROJECT_DIR$/modules/core/client/img/brand/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/core/client/views/header.client.view.html" afterPath="$PROJECT_DIR$/modules/core/client/views/header.client.view.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/core/client/views/home.client.view.html" afterPath="$PROJECT_DIR$/modules/core/client/views/home.client.view.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/adm-zip/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/node_modules/adm-zip/.idea/scopes/scope_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/adm-zip/MIT-LICENSE.txt" afterPath="$PROJECT_DIR$/node_modules/adm-zip/MIT-LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/adm-zip/README.md" afterPath="$PROJECT_DIR$/node_modules/adm-zip/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/adm-zip/adm-zip.js" afterPath="$PROJECT_DIR$/node_modules/adm-zip/adm-zip.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/adm-zip/headers/entryHeader.js" afterPath="$PROJECT_DIR$/node_modules/adm-zip/headers/entryHeader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/adm-zip/headers/index.js" afterPath="$PROJECT_DIR$/node_modules/adm-zip/headers/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/adm-zip/headers/mainHeader.js" afterPath="$PROJECT_DIR$/node_modules/adm-zip/headers/mainHeader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/adm-zip/methods/deflater.js" afterPath="$PROJECT_DIR$/node_modules/adm-zip/methods/deflater.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/adm-zip/methods/index.js" afterPath="$PROJECT_DIR$/node_modules/adm-zip/methods/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/adm-zip/methods/inflater.js" afterPath="$PROJECT_DIR$/node_modules/adm-zip/methods/inflater.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/adm-zip/test/assets/attributes_test/New folder/hidden.txt" afterPath="$PROJECT_DIR$/node_modules/adm-zip/test/assets/attributes_test/New folder/hidden.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/adm-zip/test/assets/attributes_test/New folder/hidden_readonly.txt" afterPath="$PROJECT_DIR$/node_modules/adm-zip/test/assets/attributes_test/New folder/hidden_readonly.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/adm-zip/test/assets/attributes_test/New folder/readonly.txt" afterPath="$PROJECT_DIR$/node_modules/adm-zip/test/assets/attributes_test/New folder/readonly.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/adm-zip/test/assets/attributes_test/New folder/somefile.txt" afterPath="$PROJECT_DIR$/node_modules/adm-zip/test/assets/attributes_test/New folder/somefile.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/adm-zip/test/index.js" afterPath="$PROJECT_DIR$/node_modules/adm-zip/test/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/adm-zip/util/constants.js" afterPath="$PROJECT_DIR$/node_modules/adm-zip/util/constants.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/adm-zip/util/errors.js" afterPath="$PROJECT_DIR$/node_modules/adm-zip/util/errors.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/adm-zip/util/fattr.js" afterPath="$PROJECT_DIR$/node_modules/adm-zip/util/fattr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/adm-zip/util/index.js" afterPath="$PROJECT_DIR$/node_modules/adm-zip/util/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/adm-zip/util/utils.js" afterPath="$PROJECT_DIR$/node_modules/adm-zip/util/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/adm-zip/zipEntry.js" afterPath="$PROJECT_DIR$/node_modules/adm-zip/zipEntry.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/adm-zip/zipFile.js" afterPath="$PROJECT_DIR$/node_modules/adm-zip/zipFile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/big-integer/BigInteger.js" afterPath="$PROJECT_DIR$/node_modules/big-integer/BigInteger.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/big-integer/BigInteger.min.js" afterPath="$PROJECT_DIR$/node_modules/big-integer/BigInteger.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/big-integer/LICENSE" afterPath="$PROJECT_DIR$/node_modules/big-integer/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/big-integer/README.md" afterPath="$PROJECT_DIR$/node_modules/big-integer/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/cryptiles/.npmignore" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/cryptiles/.npmignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/cryptiles/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/cryptiles/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/findup-sync/.npmignore" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/findup-sync/.npmignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/.npmignore" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/.npmignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/README.md" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/bower.json" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/component.json" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/component.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/dist/client.js" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/dist/client.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/example/usage.js" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/example/usage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/lib/browser.js" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/lib/browser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/lib/client.js" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/lib/client.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/lib/crypto.js" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/lib/crypto.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/lib/index.js" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/lib/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/lib/server.js" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/lib/server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/lib/utils.js" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/lib/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/test/browser.js" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/test/browser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/test/client.js" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/test/client.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/test/crypto.js" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/test/crypto.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/test/index.js" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/test/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/test/readme.js" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/test/readme.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/test/server.js" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/test/server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/test/uri.js" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/test/uri.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/test/utils.js" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/hawk/test/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/jodid25519/LICENSE" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/jodid25519/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/README.md" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-00/hyper-schema" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-00/hyper-schema" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-00/json-ref" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-00/json-ref" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-00/links" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-00/links" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-00/schema" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-00/schema" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-01/hyper-schema" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-01/hyper-schema" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-01/json-ref" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-01/json-ref" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-01/links" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-01/links" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-01/schema" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-01/schema" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-02/hyper-schema" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-02/hyper-schema" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-02/json-ref" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-02/json-ref" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-02/links" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-02/links" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-02/schema" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-02/schema" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-03/examples/address" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-03/examples/address" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-03/examples/calendar" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-03/examples/calendar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-03/examples/card" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-03/examples/card" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-03/examples/geo" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-03/examples/geo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-03/examples/interfaces" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-03/examples/interfaces" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-03/hyper-schema" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-03/hyper-schema" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-03/json-ref" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-03/json-ref" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-03/links" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-03/links" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-03/schema" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-03/schema" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-04/hyper-schema" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-04/hyper-schema" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-04/links" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-04/links" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-04/schema" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-04/schema" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-zyp-json-schema-03.xml" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-zyp-json-schema-03.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-zyp-json-schema-04.xml" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/draft-zyp-json-schema-04.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/lib/links.js" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/lib/links.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/lib/validate.js" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/lib/validate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/test/tests.js" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/json-schema/test/tests.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/rc/node_modules/deep-extend/README.md" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/rc/node_modules/deep-extend/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/rx-lite/rx.lite.js" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/rx-lite/rx.lite.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/uglify-to-browserify/.npmignore" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/uglify-to-browserify/.npmignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/uglify-to-browserify/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/uglify-to-browserify/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/uglify-to-browserify/LICENSE" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/uglify-to-browserify/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/uglify-to-browserify/README.md" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/uglify-to-browserify/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/uglify-to-browserify/index.js" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/uglify-to-browserify/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/uglify-to-browserify/test/index.js" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/uglify-to-browserify/test/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/window-size/LICENSE-MIT" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/window-size/LICENSE-MIT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/window-size/README.md" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/window-size/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/window-size/index.js" afterPath="$PROJECT_DIR$/node_modules/bower/lib/node_modules/window-size/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bufferstreams/tests/index.mocha.js" afterPath="$PROJECT_DIR$/node_modules/bufferstreams/tests/index.mocha.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/buildmail/node_modules/needle/examples/parsed-stream2.js" afterPath="$PROJECT_DIR$/node_modules/buildmail/node_modules/needle/examples/parsed-stream2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/buildmail/node_modules/needle/test/compression_spec.js" afterPath="$PROJECT_DIR$/node_modules/buildmail/node_modules/needle/test/compression_spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/connect/node_modules/ee-first/LICENSE" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/ee-first/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/connect/node_modules/ee-first/README.md" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/ee-first/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/connect/node_modules/ee-first/index.js" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/ee-first/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/coverage-collector/node_modules/ee-first/LICENSE" afterPath="$PROJECT_DIR$/node_modules/coverage-collector/node_modules/ee-first/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/coverage-collector/node_modules/ee-first/README.md" afterPath="$PROJECT_DIR$/node_modules/coverage-collector/node_modules/ee-first/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/coverage-collector/node_modules/ee-first/index.js" afterPath="$PROJECT_DIR$/node_modules/coverage-collector/node_modules/ee-first/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/coverage-collector/node_modules/raw-body/LICENSE" afterPath="$PROJECT_DIR$/node_modules/coverage-collector/node_modules/raw-body/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cryptiles/.npmignore" afterPath="$PROJECT_DIR$/node_modules/cryptiles/.npmignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cryptiles/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/cryptiles/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/csurf/node_modules/cookie/LICENSE" afterPath="$PROJECT_DIR$/node_modules/csurf/node_modules/cookie/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/csurf/node_modules/cookie/README.md" afterPath="$PROJECT_DIR$/node_modules/csurf/node_modules/cookie/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/csurf/node_modules/cookie/index.js" afterPath="$PROJECT_DIR$/node_modules/csurf/node_modules/cookie/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/dicer/test/fixtures/many-noend/original" afterPath="$PROJECT_DIR$/node_modules/dicer/test/fixtures/many-noend/original" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/dicer/test/fixtures/many-noend/part5" afterPath="$PROJECT_DIR$/node_modules/dicer/test/fixtures/many-noend/part5" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/dicer/test/fixtures/many-noend/part7.header" afterPath="$PROJECT_DIR$/node_modules/dicer/test/fixtures/many-noend/part7.header" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/dicer/test/fixtures/many-wrongboundary/original" afterPath="$PROJECT_DIR$/node_modules/dicer/test/fixtures/many-wrongboundary/original" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/dicer/test/fixtures/many-wrongboundary/preamble" afterPath="$PROJECT_DIR$/node_modules/dicer/test/fixtures/many-wrongboundary/preamble" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/dicer/test/fixtures/many/original" afterPath="$PROJECT_DIR$/node_modules/dicer/test/fixtures/many/original" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/dicer/test/fixtures/many/part5" afterPath="$PROJECT_DIR$/node_modules/dicer/test/fixtures/many/part5" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/dicer/test/fixtures/many/part6.header" afterPath="$PROJECT_DIR$/node_modules/dicer/test/fixtures/many/part6.header" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/dicer/test/fixtures/nested-full/original" afterPath="$PROJECT_DIR$/node_modules/dicer/test/fixtures/nested-full/original" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/dicer/test/fixtures/nested-full/part1.header" afterPath="$PROJECT_DIR$/node_modules/dicer/test/fixtures/nested-full/part1.header" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/dicer/test/fixtures/nested-full/part2" afterPath="$PROJECT_DIR$/node_modules/dicer/test/fixtures/nested-full/part2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/dicer/test/fixtures/nested-full/part2.header" afterPath="$PROJECT_DIR$/node_modules/dicer/test/fixtures/nested-full/part2.header" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/dicer/test/fixtures/nested-full/preamble.header" afterPath="$PROJECT_DIR$/node_modules/dicer/test/fixtures/nested-full/preamble.header" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/dicer/test/fixtures/nested/original" afterPath="$PROJECT_DIR$/node_modules/dicer/test/fixtures/nested/original" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/dicer/test/fixtures/nested/part1.header" afterPath="$PROJECT_DIR$/node_modules/dicer/test/fixtures/nested/part1.header" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/dicer/test/fixtures/nested/part2" afterPath="$PROJECT_DIR$/node_modules/dicer/test/fixtures/nested/part2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/dicer/test/fixtures/nested/part2.header" afterPath="$PROJECT_DIR$/node_modules/dicer/test/fixtures/nested/part2.header" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express-session/node_modules/cookie/HISTORY.md" afterPath="$PROJECT_DIR$/node_modules/express-session/node_modules/cookie/HISTORY.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express-session/node_modules/cookie/LICENSE" afterPath="$PROJECT_DIR$/node_modules/express-session/node_modules/cookie/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express-session/node_modules/cookie/README.md" afterPath="$PROJECT_DIR$/node_modules/express-session/node_modules/cookie/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express-session/node_modules/cookie/index.js" afterPath="$PROJECT_DIR$/node_modules/express-session/node_modules/cookie/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fileset/.npmignore" afterPath="$PROJECT_DIR$/node_modules/fileset/.npmignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fileset/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/fileset/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fileset/CHANGELOG.md" afterPath="$PROJECT_DIR$/node_modules/fileset/CHANGELOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fileset/LICENSE-MIT" afterPath="$PROJECT_DIR$/node_modules/fileset/LICENSE-MIT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fileset/README.md" afterPath="$PROJECT_DIR$/node_modules/fileset/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fileset/lib/fileset.js" afterPath="$PROJECT_DIR$/node_modules/fileset/lib/fileset.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fileset/tests/helper.js" afterPath="$PROJECT_DIR$/node_modules/fileset/tests/helper.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fileset/tests/test-sync.js" afterPath="$PROJECT_DIR$/node_modules/fileset/tests/test-sync.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fileset/tests/test.js" afterPath="$PROJECT_DIR$/node_modules/fileset/tests/test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/forever-monitor/test/fixtures/gc.js" afterPath="$PROJECT_DIR$/node_modules/forever-monitor/test/fixtures/gc.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/cryptiles/.npmignore" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/cryptiles/.npmignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/cryptiles/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/cryptiles/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/.npmignore" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/.npmignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/README.md" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/bower.json" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/component.json" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/component.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/dist/client.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/dist/client.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/example/usage.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/example/usage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/lib/browser.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/lib/browser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/lib/client.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/lib/client.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/lib/crypto.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/lib/crypto.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/lib/index.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/lib/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/lib/server.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/lib/server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/lib/utils.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/lib/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/test/browser.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/test/browser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/test/client.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/test/client.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/test/crypto.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/test/crypto.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/test/index.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/test/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/test/readme.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/test/readme.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/test/server.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/test/server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/test/uri.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/test/uri.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/test/utils.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/test/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/jodid25519/LICENSE" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/jodid25519/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/README.md" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-00/hyper-schema" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-00/hyper-schema" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-00/json-ref" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-00/json-ref" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-00/links" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-00/links" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-00/schema" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-00/schema" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-01/hyper-schema" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-01/hyper-schema" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-01/json-ref" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-01/json-ref" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-01/links" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-01/links" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-01/schema" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-01/schema" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-02/hyper-schema" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-02/hyper-schema" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-02/json-ref" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-02/json-ref" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-02/links" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-02/links" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-02/schema" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-02/schema" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/examples/address" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/examples/address" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/examples/calendar" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/examples/calendar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/examples/card" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/examples/card" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/examples/geo" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/examples/geo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/examples/interfaces" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/examples/interfaces" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/hyper-schema" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/hyper-schema" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/json-ref" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/json-ref" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/links" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/links" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/schema" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/schema" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-04/hyper-schema" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-04/hyper-schema" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-04/links" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-04/links" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-04/schema" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-04/schema" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-zyp-json-schema-03.xml" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-zyp-json-schema-03.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-zyp-json-schema-04.xml" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-zyp-json-schema-04.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/lib/links.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/lib/links.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/lib/validate.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/lib/validate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/test/tests.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/test/tests.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-istanbul/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/grunt-istanbul/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-istanbul/Gruntfile.js" afterPath="$PROJECT_DIR$/node_modules/grunt-istanbul/Gruntfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-istanbul/LICENSE-MIT" afterPath="$PROJECT_DIR$/node_modules/grunt-istanbul/LICENSE-MIT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-istanbul/README.md" afterPath="$PROJECT_DIR$/node_modules/grunt-istanbul/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-istanbul/bin/grunt-istanbul" afterPath="$PROJECT_DIR$/node_modules/grunt-istanbul/bin/grunt-istanbul" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-istanbul/tasks/helpers.js" afterPath="$PROJECT_DIR$/node_modules/grunt-istanbul/tasks/helpers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-istanbul/tasks/istanbul.js" afterPath="$PROJECT_DIR$/node_modules/grunt-istanbul/tasks/istanbul.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-mocha-istanbul/.jshintrc" afterPath="$PROJECT_DIR$/node_modules/grunt-mocha-istanbul/.jshintrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-mocha-istanbul/.npmignore" afterPath="$PROJECT_DIR$/node_modules/grunt-mocha-istanbul/.npmignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-mocha-istanbul/Gruntfile.js" afterPath="$PROJECT_DIR$/node_modules/grunt-mocha-istanbul/Gruntfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-mocha-istanbul/README.md" afterPath="$PROJECT_DIR$/node_modules/grunt-mocha-istanbul/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-mocha-istanbul/test/dummy.test.js" afterPath="$PROJECT_DIR$/node_modules/grunt-mocha-istanbul/test/dummy.test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-mocha-test/tasks/mocha-test.js" afterPath="$PROJECT_DIR$/node_modules/grunt-mocha-test/tasks/mocha-test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt/node_modules/iconv-lite/test/big5File.txt" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/iconv-lite/test/big5File.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt/node_modules/iconv-lite/test/gbkFile.txt" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/iconv-lite/test/gbkFile.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/gulp-footer/.npmignore" afterPath="$PROJECT_DIR$/node_modules/gulp-footer/.npmignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/gulp-footer/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/gulp-footer/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/gulp-footer/LICENSE" afterPath="$PROJECT_DIR$/node_modules/gulp-footer/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/gulp-footer/README.md" afterPath="$PROJECT_DIR$/node_modules/gulp-footer/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/gulp-footer/index.js" afterPath="$PROJECT_DIR$/node_modules/gulp-footer/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/gulp-footer/test/main.js" afterPath="$PROJECT_DIR$/node_modules/gulp-footer/test/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/gulp-footer/test/sample" afterPath="$PROJECT_DIR$/node_modules/gulp-footer/test/sample" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/gulp-ng-annotate/node_modules/bufferstreams/tests/index.mocha.js" afterPath="$PROJECT_DIR$/node_modules/gulp-ng-annotate/node_modules/bufferstreams/tests/index.mocha.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/hawk/.npmignore" afterPath="$PROJECT_DIR$/node_modules/hawk/.npmignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/hawk/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/hawk/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/hawk/README.md" afterPath="$PROJECT_DIR$/node_modules/hawk/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/hawk/bower.json" afterPath="$PROJECT_DIR$/node_modules/hawk/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/hawk/component.json" afterPath="$PROJECT_DIR$/node_modules/hawk/component.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/hawk/dist/client.js" afterPath="$PROJECT_DIR$/node_modules/hawk/dist/client.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/hawk/example/usage.js" afterPath="$PROJECT_DIR$/node_modules/hawk/example/usage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/hawk/lib/browser.js" afterPath="$PROJECT_DIR$/node_modules/hawk/lib/browser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/hawk/lib/client.js" afterPath="$PROJECT_DIR$/node_modules/hawk/lib/client.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/hawk/lib/crypto.js" afterPath="$PROJECT_DIR$/node_modules/hawk/lib/crypto.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/hawk/lib/index.js" afterPath="$PROJECT_DIR$/node_modules/hawk/lib/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/hawk/lib/server.js" afterPath="$PROJECT_DIR$/node_modules/hawk/lib/server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/hawk/lib/utils.js" afterPath="$PROJECT_DIR$/node_modules/hawk/lib/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/hawk/test/browser.js" afterPath="$PROJECT_DIR$/node_modules/hawk/test/browser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/hawk/test/client.js" afterPath="$PROJECT_DIR$/node_modules/hawk/test/client.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/hawk/test/crypto.js" afterPath="$PROJECT_DIR$/node_modules/hawk/test/crypto.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/hawk/test/index.js" afterPath="$PROJECT_DIR$/node_modules/hawk/test/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/hawk/test/readme.js" afterPath="$PROJECT_DIR$/node_modules/hawk/test/readme.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/hawk/test/server.js" afterPath="$PROJECT_DIR$/node_modules/hawk/test/server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/hawk/test/uri.js" afterPath="$PROJECT_DIR$/node_modules/hawk/test/uri.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/hawk/test/utils.js" afterPath="$PROJECT_DIR$/node_modules/hawk/test/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jodid25519/LICENSE" afterPath="$PROJECT_DIR$/node_modules/jodid25519/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/json-schema/README.md" afterPath="$PROJECT_DIR$/node_modules/json-schema/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-00/hyper-schema" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-00/hyper-schema" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-00/json-ref" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-00/json-ref" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-00/links" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-00/links" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-00/schema" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-00/schema" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-01/hyper-schema" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-01/hyper-schema" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-01/json-ref" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-01/json-ref" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-01/links" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-01/links" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-01/schema" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-01/schema" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-02/hyper-schema" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-02/hyper-schema" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-02/json-ref" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-02/json-ref" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-02/links" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-02/links" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-02/schema" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-02/schema" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/address" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/address" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/calendar" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/calendar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/card" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/card" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/geo" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/geo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/interfaces" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/interfaces" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/hyper-schema" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/hyper-schema" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/json-ref" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/json-ref" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/links" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/links" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/schema" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/schema" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-04/hyper-schema" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-04/hyper-schema" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-04/links" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-04/links" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-04/schema" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-04/schema" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-zyp-json-schema-03.xml" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-zyp-json-schema-03.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-zyp-json-schema-04.xml" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-zyp-json-schema-04.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/json-schema/lib/links.js" afterPath="$PROJECT_DIR$/node_modules/json-schema/lib/links.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/json-schema/lib/validate.js" afterPath="$PROJECT_DIR$/node_modules/json-schema/lib/validate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/json-schema/test/tests.js" afterPath="$PROJECT_DIR$/node_modules/json-schema/test/tests.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/cookie/LICENSE" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/cookie/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/cookie/README.md" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/cookie/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/cookie/index.js" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/cookie/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/pause/LICENSE" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/pause/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/serve-index/HISTORY.md" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/serve-index/HISTORY.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/serve-index/LICENSE" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/serve-index/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/serve-index/README.md" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/serve-index/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/serve-index/index.js" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/serve-index/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/serve-index/public/directory.html" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/serve-index/public/directory.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/serve-index/public/style.css" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/serve-index/public/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/gsolo/encryption/MD5.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/gsolo/encryption/MD5.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/Crypto.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/Crypto.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/cert/X509Certificate.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/cert/X509Certificate.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/cert/X509CertificateCollection.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/cert/X509CertificateCollection.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/hash/HMAC.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/hash/HMAC.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/hash/IHMAC.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/hash/IHMAC.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/hash/IHash.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/hash/IHash.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/hash/MAC.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/hash/MAC.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/hash/MD2.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/hash/MD2.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/hash/MD5.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/hash/MD5.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/hash/SHA1.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/hash/SHA1.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/hash/SHA224.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/hash/SHA224.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/hash/SHA256.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/hash/SHA256.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/hash/SHABase.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/hash/SHABase.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/prng/ARC4.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/prng/ARC4.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/prng/IPRNG.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/prng/IPRNG.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/prng/Random.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/prng/Random.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/prng/TLSPRF.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/prng/TLSPRF.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/AESKey.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/AESKey.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/BlowFishKey.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/BlowFishKey.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/CBCMode.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/CBCMode.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/CFB8Mode.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/CFB8Mode.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/CFBMode.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/CFBMode.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/CTRMode.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/CTRMode.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/DESKey.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/DESKey.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/ECBMode.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/ECBMode.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/ICipher.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/ICipher.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/IMode.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/IMode.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/IPad.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/IPad.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/IStreamCipher.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/IStreamCipher.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/ISymmetricKey.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/ISymmetricKey.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/IVMode.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/IVMode.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/NullPad.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/NullPad.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/OFBMode.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/OFBMode.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/PKCS5.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/PKCS5.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/SimpleIVMode.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/SimpleIVMode.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/TLSPad.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/TLSPad.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/TripleDESKey.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/TripleDESKey.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/XTeaKey.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/symmetric/XTeaKey.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/AESKeyTest.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/AESKeyTest.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/ARC4Test.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/ARC4Test.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/BigIntegerTest.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/BigIntegerTest.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/BlowFishKeyTest.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/BlowFishKeyTest.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/CBCModeTest.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/CBCModeTest.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/CFB8ModeTest.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/CFB8ModeTest.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/CFBModeTest.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/CFBModeTest.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/CTRModeTest.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/CTRModeTest.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/DESKeyTest.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/DESKeyTest.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/ECBModeTest.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/ECBModeTest.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/HMACTest.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/HMACTest.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/ITestHarness.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/ITestHarness.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/MD2Test.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/MD2Test.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/MD5Test.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/MD5Test.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/OFBModeTest.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/OFBModeTest.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/RSAKeyTest.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/RSAKeyTest.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/SHA1Test.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/SHA1Test.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/SHA224Test.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/SHA224Test.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/SHA256Test.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/SHA256Test.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/TLSPRFTest.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/TLSPRFTest.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/TestCase.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/TestCase.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/TripleDESKeyTest.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/TripleDESKeyTest.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/XTeaKeyTest.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/XTeaKeyTest.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/CipherSuites.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/CipherSuites.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/IConnectionState.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/IConnectionState.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/ISecurityParameters.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/ISecurityParameters.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/KeyExchanges.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/KeyExchanges.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/MACs.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/MACs.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/SSLEvent.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/SSLEvent.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/SSLSecurityParameters.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/SSLSecurityParameters.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/TLSConfig.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/TLSConfig.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/TLSConnectionState.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/TLSConnectionState.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/TLSError.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/TLSError.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/TLSEvent.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/TLSEvent.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/TLSSecurityParameters.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/TLSSecurityParameters.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/TLSSocket.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/TLSSocket.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/TLSSocketEvent.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/TLSSocketEvent.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/math/BarrettReduction.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/math/BarrettReduction.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/math/BigInteger.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/math/BigInteger.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/math/ClassicReduction.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/math/ClassicReduction.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/math/IReduction.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/math/IReduction.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/math/MontgomeryReduction.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/math/MontgomeryReduction.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/math/NullReduction.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/math/NullReduction.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/math/bi_internal.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/math/bi_internal.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/ArrayUtil.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/ArrayUtil.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/Base64.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/Base64.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/Hex.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/Hex.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/Memory.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/Memory.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/der/ByteString.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/der/ByteString.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/der/DER.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/der/DER.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/der/IAsn1Type.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/der/IAsn1Type.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/der/Integer.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/der/Integer.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/der/OID.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/der/OID.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/der/ObjectIdentifier.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/der/ObjectIdentifier.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/der/PEM.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/der/PEM.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/der/PrintableString.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/der/PrintableString.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/der/Sequence.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/der/Sequence.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/der/Set.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/der/Set.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/der/Type.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/der/Type.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/der/UTCTime.as" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/der/UTCTime.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/uglify-js/test/unit/compress/test/const.js" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/uglify-js/test/unit/compress/test/const.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/uglify-js/test/unit/compress/test/if.js" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/uglify-js/test/unit/compress/test/if.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/uglify-js/test/unit/compress/test/ifreturn.js" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/uglify-js/test/unit/compress/test/ifreturn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/uglify-js/test/unit/compress/test/var.js" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/uglify-js/test/unit/compress/test/var.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/uglify-js/tmp/app.js" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/uglify-js/tmp/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/less/gradlew.bat" afterPath="$PROJECT_DIR$/node_modules/less/gradlew.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/liftoff/node_modules/findup-sync/.npmignore" afterPath="$PROJECT_DIR$/node_modules/liftoff/node_modules/findup-sync/.npmignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/merge/LICENSE" afterPath="$PROJECT_DIR$/node_modules/merge/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/merge/README.md" afterPath="$PROJECT_DIR$/node_modules/merge/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/merge/merge.js" afterPath="$PROJECT_DIR$/node_modules/merge/merge.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/merge/merge.min.js" afterPath="$PROJECT_DIR$/node_modules/merge/merge.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/needle/examples/parsed-stream2.js" afterPath="$PROJECT_DIR$/node_modules/needle/examples/parsed-stream2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/needle/test/compression_spec.js" afterPath="$PROJECT_DIR$/node_modules/needle/test/compression_spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/node-gyp/gyp/gyp.bat" afterPath="$PROJECT_DIR$/node_modules/node-gyp/gyp/gyp.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/node-gyp/gyp/samples/samples.bat" afterPath="$PROJECT_DIR$/node_modules/node-gyp/gyp/samples/samples.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/plist/dist/plist-parse.js" afterPath="$PROJECT_DIR$/node_modules/plist/dist/plist-parse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/plist/dist/plist.js" afterPath="$PROJECT_DIR$/node_modules/plist/dist/plist.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pretty-hrtime/.jshintignore" afterPath="$PROJECT_DIR$/node_modules/pretty-hrtime/.jshintignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pretty-hrtime/.npmignore" afterPath="$PROJECT_DIR$/node_modules/pretty-hrtime/.npmignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pretty-hrtime/LICENSE" afterPath="$PROJECT_DIR$/node_modules/pretty-hrtime/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pretty-hrtime/README.md" afterPath="$PROJECT_DIR$/node_modules/pretty-hrtime/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pretty-hrtime/index.js" afterPath="$PROJECT_DIR$/node_modules/pretty-hrtime/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rewire/.jshintignore" afterPath="$PROJECT_DIR$/node_modules/rewire/.jshintignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rewire/.jshintrc" afterPath="$PROJECT_DIR$/node_modules/rewire/.jshintrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rewire/.npmignore" afterPath="$PROJECT_DIR$/node_modules/rewire/.npmignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rewire/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/rewire/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rewire/LICENSE" afterPath="$PROJECT_DIR$/node_modules/rewire/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rewire/lib/__get__.js" afterPath="$PROJECT_DIR$/node_modules/rewire/lib/__get__.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rewire/lib/detectStrictMode.js" afterPath="$PROJECT_DIR$/node_modules/rewire/lib/detectStrictMode.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rewire/lib/index.js" afterPath="$PROJECT_DIR$/node_modules/rewire/lib/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rewire/lib/moduleEnv.js" afterPath="$PROJECT_DIR$/node_modules/rewire/lib/moduleEnv.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rewire/testLib/debuggerModule.js" afterPath="$PROJECT_DIR$/node_modules/rewire/testLib/debuggerModule.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rewire/testLib/emptyModule.js" afterPath="$PROJECT_DIR$/node_modules/rewire/testLib/emptyModule.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rewire/testLib/module.coffee" afterPath="$PROJECT_DIR$/node_modules/rewire/testLib/module.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rewire/testLib/moduleB.js" afterPath="$PROJECT_DIR$/node_modules/rewire/testLib/moduleB.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rewire/testLib/node_modules/rewire/package.json" afterPath="$PROJECT_DIR$/node_modules/rewire/testLib/node_modules/rewire/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rewire/testLib/someOtherModule.js" afterPath="$PROJECT_DIR$/node_modules/rewire/testLib/someOtherModule.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rewire/testLib/strictModule.js" afterPath="$PROJECT_DIR$/node_modules/rewire/testLib/strictModule.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rewire/testLib/throwError.js" afterPath="$PROJECT_DIR$/node_modules/rewire/testLib/throwError.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/run-sequence/.npmignore" afterPath="$PROJECT_DIR$/node_modules/run-sequence/.npmignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rx-lite/rx.lite.js" afterPath="$PROJECT_DIR$/node_modules/rx-lite/rx.lite.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sequencify/.npmignore" afterPath="$PROJECT_DIR$/node_modules/sequencify/.npmignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sequencify/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/sequencify/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sequencify/LICENSE" afterPath="$PROJECT_DIR$/node_modules/sequencify/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sequencify/README.md" afterPath="$PROJECT_DIR$/node_modules/sequencify/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sequencify/index.js" afterPath="$PROJECT_DIR$/node_modules/sequencify/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/should-equal/.eslintrc" afterPath="$PROJECT_DIR$/node_modules/should-equal/.eslintrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/should-equal/.npmignore" afterPath="$PROJECT_DIR$/node_modules/should-equal/.npmignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/should-equal/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/should-equal/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/should-equal/LICENSE" afterPath="$PROJECT_DIR$/node_modules/should-equal/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/should-equal/README.md" afterPath="$PROJECT_DIR$/node_modules/should-equal/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/should-equal/format.js" afterPath="$PROJECT_DIR$/node_modules/should-equal/format.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/should-equal/index.js" afterPath="$PROJECT_DIR$/node_modules/should-equal/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/should-equal/test.js" afterPath="$PROJECT_DIR$/node_modules/should-equal/test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/should-format/tests/browser/tests.js" afterPath="$PROJECT_DIR$/node_modules/should-format/tests/browser/tests.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/should-type/.npmignore" afterPath="$PROJECT_DIR$/node_modules/should-type/.npmignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/should-type/LICENSE" afterPath="$PROJECT_DIR$/node_modules/should-type/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/should-type/README.md" afterPath="$PROJECT_DIR$/node_modules/should-type/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/should-type/index.js" afterPath="$PROJECT_DIR$/node_modules/should-type/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/should-type/types.js" afterPath="$PROJECT_DIR$/node_modules/should-type/types.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/should/should.js" afterPath="$PROJECT_DIR$/node_modules/should/should.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/node_modules/component-emitter/History.md" afterPath="$PROJECT_DIR$/node_modules/superagent/node_modules/component-emitter/History.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/node_modules/component-emitter/LICENSE" afterPath="$PROJECT_DIR$/node_modules/superagent/node_modules/component-emitter/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/node_modules/component-emitter/Readme.md" afterPath="$PROJECT_DIR$/node_modules/superagent/node_modules/component-emitter/Readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/node_modules/component-emitter/index.js" afterPath="$PROJECT_DIR$/node_modules/superagent/node_modules/component-emitter/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/uglify-to-browserify/.npmignore" afterPath="$PROJECT_DIR$/node_modules/uglify-to-browserify/.npmignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/uglify-to-browserify/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/uglify-to-browserify/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/uglify-to-browserify/LICENSE" afterPath="$PROJECT_DIR$/node_modules/uglify-to-browserify/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/uglify-to-browserify/README.md" afterPath="$PROJECT_DIR$/node_modules/uglify-to-browserify/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/uglify-to-browserify/index.js" afterPath="$PROJECT_DIR$/node_modules/uglify-to-browserify/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/uglify-to-browserify/test/index.js" afterPath="$PROJECT_DIR$/node_modules/uglify-to-browserify/test/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/uri-path/LICENSE" afterPath="$PROJECT_DIR$/node_modules/uri-path/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/uri-path/index.js" afterPath="$PROJECT_DIR$/node_modules/uri-path/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/win-detect-browsers/bin/detect-browsers" afterPath="$PROJECT_DIR$/node_modules/win-detect-browsers/bin/detect-browsers" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/win-detect-browsers/index.js" afterPath="$PROJECT_DIR$/node_modules/win-detect-browsers/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/win-detect-browsers/lib/env.js" afterPath="$PROJECT_DIR$/node_modules/win-detect-browsers/lib/env.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/win-detect-browsers/lib/exec.js" afterPath="$PROJECT_DIR$/node_modules/win-detect-browsers/lib/exec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/win-detect-browsers/lib/finder.js" afterPath="$PROJECT_DIR$/node_modules/win-detect-browsers/lib/finder.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/win-detect-browsers/lib/wmic-version.js" afterPath="$PROJECT_DIR$/node_modules/win-detect-browsers/lib/wmic-version.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/win-detect-browsers/readme.md" afterPath="$PROJECT_DIR$/node_modules/win-detect-browsers/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/window-size/LICENSE-MIT" afterPath="$PROJECT_DIR$/node_modules/window-size/LICENSE-MIT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/window-size/README.md" afterPath="$PROJECT_DIR$/node_modules/window-size/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/window-size/index.js" afterPath="$PROJECT_DIR$/node_modules/window-size/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/xmldom/__package__.js" afterPath="$PROJECT_DIR$/node_modules/xmldom/__package__.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/xmldom/dom-parser.js" afterPath="$PROJECT_DIR$/node_modules/xmldom/dom-parser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/xmldom/sax.js" afterPath="$PROJECT_DIR$/node_modules/xmldom/sax.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/zeparser/Tokenizer.js" afterPath="$PROJECT_DIR$/node_modules/zeparser/Tokenizer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/zeparser/ZeParser.js" afterPath="$PROJECT_DIR$/node_modules/zeparser/ZeParser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/zeparser/benchmark.html" afterPath="$PROJECT_DIR$/node_modules/zeparser/benchmark.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/zeparser/test-parser.html" afterPath="$PROJECT_DIR$/node_modules/zeparser/test-parser.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/zeparser/test-tokenizer.html" afterPath="$PROJECT_DIR$/node_modules/zeparser/test-tokenizer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/zeparser/unicodecategories.js" afterPath="$PROJECT_DIR$/node_modules/zeparser/unicodecategories.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/lib/angular-file-upload/README.md" afterPath="$PROJECT_DIR$/public/lib/angular-file-upload/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/lib/angular-ui-utils/ui-utils.js" afterPath="$PROJECT_DIR$/public/lib/angular-ui-utils/ui-utils.js" />
+    </list>
+    <ignored path="Budz.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Budz" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="home.client.view.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/core/client/views/home.client.view.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.client.view.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modules/core/client/views/header.client.view.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/modules/core/client/views/home.client.view.html" />
+        <option value="$PROJECT_DIR$/modules/core/client/views/header.client.view.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="8" />
+    <option name="y" value="22" />
+    <option name="width" value="1380" />
+    <option name="height" value="810" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Budz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Budz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Budz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/server.js" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/modules/core/client/img/brand" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Budz" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.Unnamed">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="server.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.Unnamed" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a61fd172-34e5-4818-ab69-e0e0f6e748c8" name="Default" comment="" />
+      <created>1467067738235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1467067738235</updated>
+      <workItem from="1467067739494" duration="67000" />
+      <workItem from="1467067841359" duration="4381000" />
+      <workItem from="1467081593089" duration="649000" />
+    </task>
+    <task id="LOCAL-00001" summary="updating with meanjs base">
+      <created>1467075841135</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1467075841135</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5097000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="8" y="22" width="1380" height="810" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3319838" sideWeight="0.50869566" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3319838" sideWeight="0.49130434" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928476" sideWeight="0.49710146" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="updating with meanjs base" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating with meanjs base" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Budz.git/HEAD" />
+    <entry file="file://$PROJECT_DIR$/Budz/.idea/workspace.xml" />
+    <entry file="file://$PROJECT_DIR$/modules/core/client/views/home.client.view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/core/client/views/header.client.view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
