@@ -681,7 +681,7 @@
       <updated>1467067738235</updated>
       <workItem from="1467067739494" duration="67000" />
       <workItem from="1467067841359" duration="4381000" />
-      <workItem from="1467081593089" duration="937000" />
+      <workItem from="1467081593089" duration="1012000" />
     </task>
     <task id="LOCAL-00001" summary="updating with meanjs base">
       <created>1467075841135</created>
@@ -697,11 +697,18 @@
       <option name="project" value="LOCAL" />
       <updated>1467082349684</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="making sure the additions are added">
+      <created>1467234927690</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1467234927690</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5385000" />
+    <option name="totallyTimeSpent" value="5460000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="8" y="22" width="1380" height="810" extended-state="0" />
@@ -741,7 +748,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="updating with meanjs base" />
     <MESSAGE value="added our changes.. we are back to where we were sat night.&#10;&#10;We can now move forward" />
-    <option name="LAST_COMMIT_MESSAGE" value="added our changes.. we are back to where we were sat night.&#10;&#10;We can now move forward" />
+    <MESSAGE value="making sure the additions are added" />
+    <option name="LAST_COMMIT_MESSAGE" value="making sure the additions are added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
