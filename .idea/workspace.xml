@@ -4,7 +4,6 @@
     <list default="true" id="a61fd172-34e5-4818-ab69-e0e0f6e748c8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cooks/server/models/cook.server.model.js" afterPath="$PROJECT_DIR$/modules/cooks/server/models/cook.server.model.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/core/client/controllers/home.client.controller.js" afterPath="$PROJECT_DIR$/modules/core/client/controllers/home.client.controller.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/core/client/views/header.client.view.html" afterPath="$PROJECT_DIR$/modules/core/client/views/header.client.view.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/core/client/views/home.client.view.html" afterPath="$PROJECT_DIR$/modules/core/client/views/home.client.view.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/adm-zip/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/node_modules/adm-zip/.idea/scopes/scope_settings.xml" />
@@ -863,7 +862,7 @@
       <updated>1467067738235</updated>
       <workItem from="1467067739494" duration="67000" />
       <workItem from="1467067841359" duration="4381000" />
-      <workItem from="1467081593089" duration="4378000" />
+      <workItem from="1467081593089" duration="4395000" />
     </task>
     <task id="LOCAL-00001" summary="updating with meanjs base">
       <created>1467075841135</created>
@@ -893,11 +892,18 @@
       <option name="project" value="LOCAL" />
       <updated>1467234983263</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="making sure the additions are added">
+      <created>1467239050181</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1467239050181</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8826000" />
+    <option name="totallyTimeSpent" value="8843000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="8" y="22" width="1380" height="810" extended-state="0" />
