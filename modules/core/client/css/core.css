@@ -18,6 +18,11 @@
   border-radius: 50%;
   margin-right: 5px;
 }
+
+.backImage{
+  background:url("modules/core/client/img/brand/logo.png");
+  background-size: cover;       /* For flexibility */
+}
 .open .header-profile-image,
 a:hover .header-profile-image {
   opacity: 1;
