@@ -38,6 +38,12 @@ var FoodSchema = new Schema({
     type: Schema.ObjectId,
     ref: 'Cooks'
   },
+  reviews : [
+    {
+      type: Schema.ObjectId,
+      ref: 'reviews'
+    }
+  ],
   created: {
     type: Date,
     default: Date.now

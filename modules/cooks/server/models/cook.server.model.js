@@ -64,6 +64,12 @@ var CookSchema = new Schema({
     required: 'Please provide overview of your cooking style or restrictions',
     trim: true
   },
+  foods : [
+            {
+              type: Schema.ObjectId,
+              ref: 'foods'
+            }
+  ],
   created: {
     type: Date,
     default: Date.now

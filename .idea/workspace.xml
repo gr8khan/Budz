@@ -2,10 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a61fd172-34e5-4818-ab69-e0e0f6e748c8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orders/client/config/orders.client.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orders/client/config/orders.client.routes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orders/client/controllers/list-orders.client.controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orders/client/controllers/orders.client.controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orders/client/orders.client.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orders/client/services/orders.client.service.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orders/client/views/form-order.client.view.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orders/client/views/list-orders.client.view.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orders/client/views/view-order.client.view.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orders/server/config/orders.server.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orders/server/controllers/orders.server.controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orders/server/models/order.server.model.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orders/server/policies/orders.server.policy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orders/server/routes/orders.server.routes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orders/tests/client/list-orders.client.controller.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orders/tests/client/orders.client.controller.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orders/tests/client/orders.client.routes.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orders/tests/e2e/orders.e2e.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orders/tests/server/order.server.model.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orders/tests/server/order.server.routes.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/reviews/client/config/reviews.client.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/reviews/client/config/reviews.client.routes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/reviews/client/controllers/list-reviews.client.controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/reviews/client/controllers/reviews.client.controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/reviews/client/reviews.client.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/reviews/client/services/reviews.client.service.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/reviews/client/views/form-review.client.view.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/reviews/client/views/list-reviews.client.view.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/reviews/client/views/view-review.client.view.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/reviews/server/config/reviews.server.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/reviews/server/controllers/reviews.server.controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/reviews/server/models/review.server.model.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/reviews/server/policies/reviews.server.policy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/reviews/server/routes/reviews.server.routes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/reviews/tests/client/list-reviews.client.controller.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/reviews/tests/client/reviews.client.controller.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/reviews/tests/client/reviews.client.routes.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/reviews/tests/e2e/reviews.e2e.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/reviews/tests/server/review.server.model.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/reviews/tests/server/review.server.routes.tests.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/core/client/css/core.css" afterPath="$PROJECT_DIR$/modules/core/client/css/core.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/core/client/views/header.client.view.html" afterPath="$PROJECT_DIR$/modules/core/client/views/header.client.view.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/core/client/views/home.client.view.html" afterPath="$PROJECT_DIR$/modules/core/client/views/home.client.view.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cooks/server/models/cook.server.model.js" afterPath="$PROJECT_DIR$/modules/cooks/server/models/cook.server.model.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/foods/server/models/food.server.model.js" afterPath="$PROJECT_DIR$/modules/foods/server/models/food.server.model.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/adm-zip/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/node_modules/adm-zip/.idea/scopes/scope_settings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/adm-zip/MIT-LICENSE.txt" afterPath="$PROJECT_DIR$/node_modules/adm-zip/MIT-LICENSE.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/adm-zip/README.md" afterPath="$PROJECT_DIR$/node_modules/adm-zip/README.md" />
@@ -496,11 +535,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="home.client.view.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="home.client.view.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/core/client/views/home.client.view.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="40" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
+            <state relative-caret-position="135">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -549,28 +588,28 @@
       <file leaf-file-name="cook.server.model.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/cooks/server/models/cook.server.model.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+            <state relative-caret-position="142">
+              <caret line="69" column="25" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="view-cook.client.view.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/cooks/client/views/view-cook.client.view.html">
+      <file leaf-file-name="food.server.model.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/foods/server/models/food.server.model.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            <state relative-caret-position="75">
+              <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="23" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list-cooks.client.view.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/cooks/client/views/list-cooks.client.view.html">
+      <file leaf-file-name="review.server.model.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modules/reviews/server/models/review.server.model.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="202">
+              <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -605,10 +644,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/modules/core/client/controllers/home.client.controller.js" />
-        <option value="$PROJECT_DIR$/modules/cooks/server/models/cook.server.model.js" />
         <option value="$PROJECT_DIR$/modules/core/client/views/header.client.view.html" />
         <option value="$PROJECT_DIR$/modules/core/client/css/core.css" />
         <option value="$PROJECT_DIR$/modules/core/client/views/home.client.view.html" />
+        <option value="$PROJECT_DIR$/modules/cooks/server/models/cook.server.model.js" />
+        <option value="$PROJECT_DIR$/modules/foods/server/models/food.server.model.js" />
+        <option value="$PROJECT_DIR$/modules/reviews/server/models/review.server.model.js" />
       </list>
     </option>
   </component>
@@ -697,7 +738,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
+              <option name="myItemId" value="reviews" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -715,37 +756,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
+              <option name="myItemId" value="reviews" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Budz" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Budz" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
+              <option name="myItemId" value="server" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -763,15 +778,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
+              <option name="myItemId" value="reviews" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
+              <option name="myItemId" value="server" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="models" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -789,15 +804,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
+              <option name="myItemId" value="foods" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -813,6 +820,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -899,7 +907,7 @@
       <updated>1467067738235</updated>
       <workItem from="1467067739494" duration="67000" />
       <workItem from="1467067841359" duration="4381000" />
-      <workItem from="1467081593089" duration="5812000" />
+      <workItem from="1467081593089" duration="8168000" />
     </task>
     <task id="LOCAL-00001" summary="updating with meanjs base">
       <created>1467075841135</created>
@@ -943,11 +951,18 @@
       <option name="project" value="LOCAL" />
       <updated>1467239070751</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="minor adjustments">
+      <created>1467240615560</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1467240615560</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10260000" />
+    <option name="totallyTimeSpent" value="12616000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="8" y="22" width="1380" height="810" extended-state="0" />
@@ -955,11 +970,11 @@
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3319838" sideWeight="0.50869566" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3319838" sideWeight="0.5115942" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3319838" sideWeight="0.49130434" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3319838" sideWeight="0.4884058" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928476" sideWeight="0.49710146" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928476" sideWeight="0.4942029" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -988,7 +1003,8 @@
     <MESSAGE value="updating with meanjs base" />
     <MESSAGE value="added our changes.. we are back to where we were sat night.&#10;&#10;We can now move forward" />
     <MESSAGE value="making sure the additions are added" />
-    <option name="LAST_COMMIT_MESSAGE" value="making sure the additions are added" />
+    <MESSAGE value="minor adjustments" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor adjustments" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -997,14 +1013,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Budz.git/HEAD" />
     <entry file="file://$PROJECT_DIR$/Budz/.idea/workspace.xml" />
-    <entry file="file://$PROJECT_DIR$/modules/cooks/server/models/cook.server.model.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/cooks/client/views/list-cooks.client.view.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1071,8 +1079,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/core/client/views/home.client.view.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="40" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
+        <state relative-caret-position="135">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/cooks/server/models/cook.server.model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="69" column="25" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/foods/server/models/food.server.model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="23" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/reviews/server/models/review.server.model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
           <folding />
         </state>
       </provider>
