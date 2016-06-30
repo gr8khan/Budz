@@ -55,7 +55,7 @@ var CookSchema = new Schema({
   },
   cookingPic: {
     type: String,
-    default: 'modules/users/client/img/profile/default.png',
+    default: 'http://placehold.it/500x300',
     required: 'Please Upload a picture of your kitchen or you cooking'
   },
   profile: {

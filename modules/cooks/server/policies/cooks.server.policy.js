@@ -25,10 +25,10 @@ exports.invokeRolesPolicies = function () {
     roles: ['user'],
     allows: [{
       resources: '/api/cooks',
-      permissions: ['get', 'post']
+      permissions: ['get','post']
     }, {
       resources: '/api/cooks/:cookId',
-      permissions: ['get']
+      permissions: ['get','post']
     }]
   }, {
     roles: ['guest'],

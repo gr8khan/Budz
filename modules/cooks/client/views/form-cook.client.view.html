@@ -8,8 +8,29 @@
         <div class="form-group" show-errors>
           <label class="control-label" for="name">Name</label>
           <input name="name" type="text" ng-model="vm.cook.name" id="name" class="form-control" placeholder="Name" required>
+          
           <label class="control-label" for="story">Story</label>
           <input name="story" type="text" ng-model="vm.cook.story" id="story" class="form-control" placeholder="Story" required>
+
+
+          <label class="control-label" for="address">address</label>
+          <input name="address" type="text" ng-model="vm.cook.address" id="address" class="form-control" placeholder="address" required>
+
+
+          <label class="control-label" for="phone">phone</label>
+          <input name="phone" type="text" ng-model="vm.cook.phone" id="phone" class="form-control" placeholder="phone" required>
+
+
+          <label class="control-label" for="foodLimit">foodLimit</label>
+          <input name="foodLimit" type="text" ng-model="vm.cook.foodLimit" id="foodLimit" class="form-control" placeholder="foodLimit" required>
+
+
+          <label class="control-label" for="specialties">specialties</label>
+          <input name="specialties" type="text" ng-model="vm.cook.specialties" id="specialties" class="form-control" placeholder="specialties" required>
+
+          <label class="control-label" for="profile">profile</label>
+          <input name="profile" type="text" ng-model="vm.cook.profile" id="profile" class="form-control" placeholder="profile" required>
+
           <div ng-messages="vm.form.cookForm.name.$error" role="alert">
             <p class="help-block error-text" ng-message="required">Cook name is required.</p>
           </div>
