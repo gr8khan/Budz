@@ -24,17 +24,23 @@
   <!--</div>-->
 
   <h3>Shop by Cooks <span class="btn btn-primary btn-md">More Cooks</span></h3>
-  <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3" ng-repeat="cook in cooks">
-    <h4>
-      <a class="undecorated-link" href="/{{cook.name}}"><img class="img-circle" src="{{cook.profilePhoto}}">{{cook.name}}</h4></a>
-    <div class="hovereffect">
-      <img class="img-responsive" src="{{cook.image}}" alt="">
-      <div class="overlay">
-        <h2>{{cook.name}}</h2>
-        <a class="info" href="/{{cook.name}}">More Food</a>
+
+
+  <div class="cook-profile col-lg-3 col-md-4 col-sm-6 col-xs-12" ng-repeat="cook in cooks">
+      <a href="/{{cook.name}}">
+          <img class="img-circle cook-profile-photo" src="{{cook.profilePhoto}}">
+      </a>
+      <div class="hovereffect">
+          <img class="img-responsive" src="{{cook.image}}" alt="">
+          <div class="overlay">
+              <h2>{{cook.name}}</h2>
+              <a class="info" href="/{{cook.name}}">More Food</a>
+          </div>
       </div>
-    </div>
   </div>
+
+
+
 
 
 </section>
