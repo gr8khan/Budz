@@ -1,44 +1,39 @@
 <section>
-  <div class="page-header">
+    <div class="page-header">
 
 
-    <div class="pull-right"
-         data-ng-show="vm.cook.isCurrentUserOwner">
-      <a class="btn btn-primary"
-         data-ui-sref="cooks.edit({ cookId: vm.cook._id })">
-        <i class="glyphicon glyphicon-edit"></i> Edit
-      </a>
-      <a class="btn btn-primary" data-ng-click="vm.remove()">
-        <i class="glyphicon glyphicon-trash"></i> Delete
-      </a>
+        <div class="pull-right"
+             data-ng-show="vm.cook.isCurrentUserOwner">
+            <a class="btn btn-primary"
+               data-ui-sref="cooks.edit({ cookId: vm.cook._id })">
+                <i class="glyphicon glyphicon-edit"></i> Edit
+            </a>
+            <a class="btn btn-primary" data-ng-click="vm.remove()">
+                <i class="glyphicon glyphicon-trash"></i> Delete
+            </a>
+        </div>
+
+
+        <div class="container">
+            <div class="jumbotron">
+                <img src="{{vm.cook.cookingPic}}">
+                <h1>{{vm.cook.name}}'s Kitchen</h1>
+            </div>
+            <pre>{{vm.cook | json}}</pre>
+        </div>
+
+
+
     </div>
-
-
-    <div class="container">
-      <div class="jumbotron">
-        <h1 data-ng-bind="vm.cook.name">'s Kitchen</h1>
-        <p data-ng-bind="vm.cook.story"></p>
-      </div>
-      <p>This is some text.</p>
-      <p>This is another text.</p>
-    </div>
-
-    <h1 ></h1>
-
-
-
-
-
-  </div>
-  <small>
-    <em class="text-muted">
-      Created/Updated on
-      <span data-ng-bind="vm.cook.created | date:'mediumDate'"></span>
-      by
+    <small>
+        <em class="text-muted">
+            Created/Updated on
+            <span data-ng-bind="vm.cook.created | date:'mediumDate'"></span>
+            by
       <span data-ng-if="vm.cook.user"
             data-ng-bind="vm.cook.user.displayName"></span>
-      <span data-ng-if="!vm.cook.user">Deleted User</span>
-    </em>
-  </small>
-  <p class="lead" data-ng-bind="vm.cook.content"></p>
+            <span data-ng-if="!vm.cook.user">Deleted User</span>
+        </em>
+    </small>
+    <p class="lead" data-ng-bind="vm.cook.content"></p>
 </section>
