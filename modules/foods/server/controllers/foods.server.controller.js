@@ -23,7 +23,9 @@ exports.create = function(req, res) {
       {$push: {foods:food}},
       {safe: true, upsert: true},
       function(err) {
-        handleError(err);
+        if (err) {
+          handleError(err);
+        }
       });
 
 
