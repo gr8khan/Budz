@@ -3,10 +3,12 @@
 /**
  * Module dependencies.
  */
+
 var path = require('path'),
-  mongoose = require('mongoose'),
-  Food = mongoose.model('Food'),
-  errorHandler = require(path.resolve('./modules/core/server/controllers/errors.server.controller')),
+    mongoose = require('mongoose'),
+    Food = mongoose.model('Food'),
+    Cook = mongoose.model('Cook'),
+    errorHandler = require(path.resolve('./modules/core/server/controllers/errors.server.controller')),
   _ = require('lodash');
 
 /**
@@ -14,8 +16,16 @@ var path = require('path'),
  */
 exports.create = function(req, res) {
   var food = new Food(req.body);
-  food.user = req.user;
-  food.cook = req.user.cook;
+
+//search for cook by userid and add food to it
+  Cook.findOneAndUpdate(
+      {'user': req.user},
+      {$push: {foods:food}},
+      {safe: true, upsert: true},
+      function(err) {
+        handleError(err);
+      });
+
 
   food.save(function(err) {
     if (err) {
